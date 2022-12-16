@@ -12,9 +12,9 @@ HU! Do You Know?” is a trivial web app aimed to test Howard students’ genera
 
 
 ## Demo
-Here is a working live demo :
+Here is a working live demo : https://hu-dyk.web.app/
 
-## Detailes
+## API
 The news data is fetched from Trivia DB Api : https://opentdb.com/api_config.php
 <br/>
 It have indicators for right and wrong answer, score adding facilty, and check validation functionalties also.
